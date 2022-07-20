@@ -1,5 +1,7 @@
 <h1>SISTEMA DE GESTIÓN DE PAVIMENTOS BASADO EN INTELIGENCIA ARTIFICIAL</h1>
 
+**Información CONFIDENCIAL**
+
 **¿Por qué queremos hacerlo?**
 <br>
 - Factor económico (inversión alta en mantenimiento correctivo e incremento vida útil carretera).
