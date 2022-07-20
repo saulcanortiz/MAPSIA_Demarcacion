@@ -38,9 +38,10 @@
       <p align="center">
         <img src="47_1.png" width="350" title="hover text">
       </p>
+      **IMPORTANTE**: Cada imagen está georeferenciada. Por tanto, podemos sacar por ejemplo el Pavement Condition Index (PCI) a partir del tipo de deterioro, la frecuencia de deterioro, área y severidad. Entonces, la idea es mostrar en la herramienta final un mapa por colores en función del valor del PCI que les sirva como mecanismo para activar el plan de mantenimiento.
 - **Elaboración de planes de mantenimiento óptimo y estudios de coorrelación**: Índice de condición del pavimento.
 
-  - Esta herramienta será creada para administración de carreteras y que mejor SOLUTION/PROBLEM fit que seáis vosotros quién propogáis vuestras necesidades para que nosotros os demos análisis: correlación IRI con PCI, deflexión con PCI, tasa de accidentes con PCI,etc.
+  - Esta herramienta será creada para la administración de carreteras y que mejor SOLUTION/PROBLEM fit que seáis vosotros quién propogáis vuestras necesidades para que nosotros os demos análisis: correlación IRI con PCI, deflexión con PCI, tasa de accidentes con PCI,etc.
   - Creación de una herramienta donde el cuerpo de operarios vuelque las imágenes y automáticamente pueda ver el reporte.
 
 
