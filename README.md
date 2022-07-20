@@ -20,7 +20,7 @@
 
 - **Colección de imágenes**: Cámara montada en vehículo de bajo coste (600 euros), rápida adquisición y alta calidad -> Imágenes georeferenciadas.
   - <span style="color:red">COLABORACIÓN</span>: Adquisición de imágenes en las zonas de interés de la demarcación.
-  - <span style="color:red">COLABORACIÓN</span>: Tener una base de datos =  avance (lo más próximo es el programa LTPP de la FHWA).
+  - <span style="color:red">COLABORACIÓN</span>: Tener una base de datos =  avance (lo más próximo es el programa LTPP de la FHWA en USA).
 <p align="center">
   <img src="WhatsApp Image 2022-05-27 at 11.29.33 AM.jpeg" width="350" title="hover text">
   <img src="47.png" width="350" title="hover text">
