@@ -36,7 +36,7 @@
     
     - **SEGMENTACIÓN SEMÁNTICA** (Área y severidad).
       <p align="center">
-        <img src="47_1.png" width="350" title="hover text">
+        <img src="47_1.png" width="550" title="hover text">
       </p>
       **IMPORTANTE**: Cada imagen está georeferenciada. Por tanto, podemos sacar por ejemplo el Pavement Condition Index (PCI) a partir del tipo de deterioro, la frecuencia de deterioro, área y severidad. Entonces, la idea es mostrar en la herramienta final un mapa por colores en función del valor del PCI que les sirva como mecanismo para activar el plan de mantenimiento.
 - **Elaboración de planes de mantenimiento óptimo y estudios de coorrelación**: Índice de condición del pavimento.
