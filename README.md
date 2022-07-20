@@ -42,7 +42,7 @@
 - **Elaboración de planes de mantenimiento óptimo y estudios de coorrelación**: Índice de condición del pavimento.
 
   - Esta herramienta será creada para la administración de carreteras y que mejor SOLUTION/PROBLEM fit que seáis vosotros quién propogáis vuestras necesidades para que nosotros os demos análisis: correlación IRI con PCI, deflexión con PCI, tasa de accidentes con PCI,etc.
-  - Creación de una herramienta donde el cuerpo de operarios vuelque las imágenes y automáticamente pueda ver el reporte.
+  - Creación de una herramienta donde el cuerpo de operarios vuelque las imágenes y automáticamente se pueda ver el reporte.
 
 
 
